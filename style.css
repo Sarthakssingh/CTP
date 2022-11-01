@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+.page1{
+    background-image:url("./Screenshot\ \(1\).png");
+    height: 705px;
+    margin-top: 0;
+    padding: 20px;
+}
+ol#menu li{
+    display: inline;
+    font-size: 15px;
+}
+a{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px;
+}
+.page2{
+    height: 705px;
+    margin-top: 1px;
+    padding: 20px;
+    background-image: url("./San-Gabriel-Mountains-California.webp");
+}
+.page3{
+    height: 705px;
+    margin-top: 1px;
+    padding: 20px;
+    background-image: url("./Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg");
+}
+ul#menu li{
+    display: inline;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
